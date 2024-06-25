@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankashreyareddy&label=Profile%20views&color=0e75b6&style=flat" alt="bankashreyareddy" /> </p>
 
+- 🌱 I’m currently learning on full stack java **frontend,backend**
+
+- mostly used languages **Html,css,java,python**
+
 - 📫 How to reach me **bankashreyareddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
